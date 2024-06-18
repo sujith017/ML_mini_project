@@ -1,1 +1,1 @@
-Read me
+The dataset used to train the model is ("https://www.kaggle.com/datasets/dhivyeshrk/diseases-and-symptoms-dataset")
