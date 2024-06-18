@@ -3,6 +3,6 @@ It has 773 unique diseases,246945 total values
 
 The algorithm used are 
 [Random Forest](https://www.ibm.com/topics/random-forest)
-GaussianNB
+##GaussianNB
 KNeighborsClassifier 
 Support vector classifier
