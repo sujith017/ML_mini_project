@@ -1,3 +1,4 @@
+<h1> Multiple Disease Pediction using Machine Learning </h1>
 The dataset used to train the model is "https://www.kaggle.com/datasets/dhivyeshrk/diseases-and-symptoms-dataset"<br>
 It has 773 unique diseases,246945 total values
 <h2>The Algorithm used are</h2>
@@ -6,4 +7,5 @@ It has 773 unique diseases,246945 total values
   <li><a href = "https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html">GaussianNB</a></li>
   <li><a href = "https://www.ibm.com/topics/knn"> KNeighborsClassifier</a></li>
   <li><a href ="https://www.geeksforgeeks.org/support-vector-machine-algorithm/" >Support vector classifier </a></li>
-</ul> 
+</ul>
+
