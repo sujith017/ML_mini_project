@@ -1,3 +1,7 @@
+
+![alt text](image.png)
+
+
 <h1> Multiple Disease Pediction using Machine Learning </h1>
 The dataset used to train the model is taken from the kaggle datasets<br>
 <a href = "https://www.kaggle.com/datasets/dhivyeshrk/diseases-and-symptoms-dataset"> Data Set Link</a><br>
@@ -10,3 +14,4 @@ It has 773 unique diseases,246945 total values
   <li><a href ="https://www.geeksforgeeks.org/support-vector-machine-algorithm/" >Support vector classifier </a></li>
 </ul>
 
+  
