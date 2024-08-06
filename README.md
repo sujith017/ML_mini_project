@@ -10,3 +10,4 @@ It has 773 unique diseases,246945 total values
   <li><a href ="https://www.geeksforgeeks.org/support-vector-machine-algorithm/" >Support vector classifier </a></li>
 </ul>
 
+-------------------------------------------------------------------------------------------------------------------------
